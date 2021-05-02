@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my_tour_project/static/css/main.49237476.chunk.css",
+    "main.js": "/my_tour_project/static/js/main.973751e3.chunk.js",
+    "main.js.map": "/my_tour_project/static/js/main.973751e3.chunk.js.map",
+    "runtime-main.js": "/my_tour_project/static/js/runtime-main.3f620031.js",
+    "runtime-main.js.map": "/my_tour_project/static/js/runtime-main.3f620031.js.map",
+    "static/js/2.dcbee880.chunk.js": "/my_tour_project/static/js/2.dcbee880.chunk.js",
+    "static/js/2.dcbee880.chunk.js.map": "/my_tour_project/static/js/2.dcbee880.chunk.js.map",
+    "static/js/3.58f72312.chunk.js": "/my_tour_project/static/js/3.58f72312.chunk.js",
+    "static/js/3.58f72312.chunk.js.map": "/my_tour_project/static/js/3.58f72312.chunk.js.map",
+    "index.html": "/my_tour_project/index.html",
+    "static/css/main.49237476.chunk.css.map": "/my_tour_project/static/css/main.49237476.chunk.css.map",
+    "static/js/2.dcbee880.chunk.js.LICENSE.txt": "/my_tour_project/static/js/2.dcbee880.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f620031.js",
+    "static/js/2.dcbee880.chunk.js",
+    "static/css/main.49237476.chunk.css",
+    "static/js/main.973751e3.chunk.js"
+  ]
+}
